@@ -938,7 +938,7 @@ body {
   }
 
   .footer-hr {
-    width: 768px;
+    width: 490px;
   }
 
   .footer-col {
@@ -949,5 +949,11 @@ body {
     gap: 16px;
   }
   /* FOOTER END */
+}
+
+@media (max-width: 343px) {
+  .footer-hr {
+    width: 340px;
+  }
 }
 /* MEDIA END */
