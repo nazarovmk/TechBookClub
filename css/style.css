@@ -491,7 +491,7 @@ body {
 
 .options-btn:focus {
   box-shadow: 0px 0px 0px 5px var(--colorsneutral700);
-  box-shadow: 0px 0px 0px 3px #ffffff;
+  box-shadow: 0px 0px 0px 3px #fff;
 }
 /* OPTIONS END */
 
